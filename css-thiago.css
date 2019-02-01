@@ -23,7 +23,7 @@
 	color:#004474 !important;
 	}
 	
-	@media all and (max-width:990px){
+	@media (max-width:991px){
 		
 		.img-colorido {
 	max-height: 330px !important; 
