@@ -93,7 +93,7 @@ header .social .btn {
   width: 3px;
   height: 100%;
   background: #ee4d4d;
-  left: 50%;
+  left: 48.5%;
   top: 0;
   position: absolute;
 }
@@ -113,7 +113,7 @@ header .social .btn {
   height: 80px;
   position: absolute;
   top: 0;
-  left: 50%;
+  left: 48.5%;
   overflow: hidden;
   margin-left: -23px;
   -webkit-border-radius: 50%;
@@ -127,7 +127,7 @@ header .social .btn {
   left: 14px;
 }
 #timeline .timeline-item .timeline-content {
-  width: 44%;
+  width: 43%;
   background: #fff;
   padding: 20px;
   -webkit-box-shadow: 0 3px 0 rgba(0, 0, 0, 0.1);
@@ -157,7 +157,7 @@ header .social .btn {
 #timeline .timeline-item .timeline-content:before {
   content: '';
   position: absolute;
-  left: 44%;
+  left: 43%;
   top: 20px;
   width: 0;
   height: 0;
@@ -170,7 +170,7 @@ header .social .btn {
 }
 #timeline .timeline-item .timeline-content.right:before {
   content: '';
-  right: 44%;
+  right: 43%;
   left: inherit;
   border-left: 0;
   border-right: 7px solid #ee4d4d;
