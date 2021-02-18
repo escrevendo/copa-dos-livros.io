@@ -75,18 +75,6 @@
 }
 
 /* Aditional Styles */
-* {
-  font-family: "Roboto", sans-serif;
-  font-weight: normal;
-}
-
-p {
-  line-height: 1.4em;
-}
-
-body {
-  background: #B0BEC5;
-}
 
 .modal-trigger, button {
   top: 50%;
@@ -110,7 +98,7 @@ body {
 }
 
 button {
-  border: 1px solid #333333;
+  border: 1px solid #019cdf;
   outline: none;
   color: #333333;
 }
