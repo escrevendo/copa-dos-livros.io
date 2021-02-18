@@ -17,14 +17,11 @@ body, html {
 }
 
 body {
-  background: #fff;
   background-size: cover;
   margin: 0;
   padding: 0;
-  font-family:sans-serif;
   line-height: 20px;
   font-size: 14px;
-  color: #272727;
 }
 
 img {
@@ -41,7 +38,6 @@ a {
 }
 
 h1, h2, h3, h4 {
-  font-family: "sans-serif";
   font-weight: 500;
 }
 
@@ -51,7 +47,6 @@ h1, h2, h3, h4 {
 }
 
 header {
-  background: #2b2e48;
   padding: 10px;
   -webkit-box-shadow: 0 3px 3px rgba(0, 0, 0, 0.05);
   -moz-box-shadow: 0 3px 3px rgba(0, 0, 0, 0.05);
@@ -61,7 +56,6 @@ header {
 header .logo {
   color: #019cdf;
   float: left;
-  font-family: "sans-serif";
   font-size: 22px;
   font-weight: 500;
 }
@@ -73,7 +67,6 @@ header .social {
   float: right;
 }
 header .social .btn {
-  font-family: "sans-serif";
   font-size: 14px;
   margin: 10px 5px;
 }
