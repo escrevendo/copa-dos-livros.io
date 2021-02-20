@@ -26,10 +26,11 @@
 .card h3 {
   margin: 0;
   padding: 12px 12px 0;
-  line-height: 32px;
+  line-height: 18px;
   font-weight: 600;
   font-size: 20px;
   margin-bottom: 10px;
+  padding-bottom: 10px;
   transition-delay: .15s;
   background: white;
   position: relative;
@@ -43,7 +44,7 @@
 
 .card p {
   margin: 0;
-  line-height: 1.5;
+  line-height: 1.2;
   color: #86868b;
   line-height: 1.23536;
 }
